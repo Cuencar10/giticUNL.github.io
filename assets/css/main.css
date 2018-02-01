@@ -7,6 +7,7 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 	Verde #34502B
 	Rojo #941F1F
+	Rojo2 #CD2C22
 	rosa wine #CE6B5D
 	amarillo claro #FFEFB9
 
@@ -2646,7 +2647,8 @@
 		}
 
 		.wrapper.style1 {
-			background-color: #34502B;
+			/*ML background-color: #34502B;*/
+			background-color: #CD2C22;
 			color: #c7ebe8;
 		}
 
