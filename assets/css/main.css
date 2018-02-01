@@ -5,8 +5,11 @@
 	Spectral by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-	Verde # 009D4E
-	Rojo # BD2E2A
+	Verde # 34502B
+	Rojo # 941F1F
+	rosa wine # CE6B5D
+	amarillo claro # FFEFB9
+
 */
 
 /* Reset */
@@ -1702,7 +1705,7 @@
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			box-shadow: 0 0 0 2px #009D4E;
+			box-shadow: 0 0 0 2px #34502B;
 		}
 
 	.select-wrapper {
@@ -1813,7 +1816,7 @@
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			box-shadow: 0 0 0 2px #009D4E;
+			box-shadow: 0 0 0 2px #34502B;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -1924,15 +1927,15 @@
 			}
 
 		.icon.style1 {
-			color: #418a44;
+			color: #FFEFB9;
 		}
 
 		.icon.style2 {
-			color: #418a44;
+			color: #FFEFB9;
 		}
 
 		.icon.style3 {
-			color: #418a44;
+			color: #FFEFB9;
 		}
 
 /* Image */
@@ -2310,7 +2313,7 @@
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #ed4933;
+			background-color: #941F1F;
 			box-shadow: none !important;
 			color: #ffffff !important;
 		}
@@ -2430,7 +2433,7 @@
 
 			.features li:before {
 				display: block;
-				color: #418a44;
+				color: #FFEFB9;
 				position: absolute;
 				left: 1.75em;
 				top: 2.75em;
@@ -2643,7 +2646,7 @@
 		}
 
 		.wrapper.style1 {
-			background-color: #009D4E;
+			background-color: #34502B;
 			color: #c7ebe8;
 		}
 
@@ -2708,7 +2711,7 @@
 			.wrapper.style1 input[type="checkbox"]:checked + label:before,
 			.wrapper.style1 input[type="radio"]:checked + label:before {
 				background: #ffffff;
-				color: #009D4E;
+				color: #34502B;
 			}
 
 			.wrapper.style1 ::-webkit-input-placeholder {
@@ -2801,7 +2804,7 @@
 		}
 
 		.wrapper.style3 {
-			background-color: #505393;
+			background-color: #CE6B5D;
 			color: #d3d4e4;
 		}
 
@@ -2866,7 +2869,7 @@
 			.wrapper.style3 input[type="checkbox"]:checked + label:before,
 			.wrapper.style3 input[type="radio"]:checked + label:before {
 				background: #ffffff;
-				color: #505393;
+				color: #CE6B5D;
 			}
 
 			.wrapper.style3 ::-webkit-input-placeholder {
@@ -3162,7 +3165,7 @@
 		-ms-transition: -ms-transform 0.5s ease;
 		transition: transform 0.5s ease;
 		-webkit-overflow-scrolling: touch;
-		background: #009D4E;
+		background: #34502B;
 		color: #ffffff;
 		height: 100%;
 		max-width: 80%;
