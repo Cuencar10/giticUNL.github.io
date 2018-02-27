@@ -1599,6 +1599,19 @@
 		text-align: right;
 	}
 
+	.menuhorizontal {
+		float: right;
+	}
+	.menuhorizontal > a {
+		padding-right: 1em;
+		text-decoration: none !important;
+		border-bottom: none;	
+	}
+	.bio {
+		vertical-align: top !important;
+		text-align: justify;
+	}	
+
 /* Section/Article */
 
 	section.special, article.special {
